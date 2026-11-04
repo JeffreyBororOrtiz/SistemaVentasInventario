@@ -1,0 +1,2 @@
+B01;E001;500;Zona 12, Ciudad de Guatemala
+B02;E002;200;San Juan Sacatepéquez

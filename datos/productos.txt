@@ -1,0 +1,4 @@
+P001;Laptop 14 pulgadas;Core i5, 16 GB RAM;Lenovo;6500.0
+P002;Mouse inalambrico;USB, 1600 DPI;Logitech;150.0
+P003;Monitor 24 pulgadas;Full HD;Samsung;1350.0
+P004;Teclado mecanico;;Redragon;425.0

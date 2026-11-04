@@ -1,0 +1,2 @@
+E001;Ana Gómez;1987654320101;Mixco;Encargada de bodega;5200.0
+E002;Luis Ramírez;1876543210101;Villa Nueva;Bodeguero;4100.0
